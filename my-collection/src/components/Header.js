@@ -27,6 +27,7 @@ const Nav = styled.div`
 const Name = styled.div`
     color:#fcfcfc;
     font-size:4vh;
+    cursor: pointer;
 `
 const Items = styled.div`
     display: flex;
